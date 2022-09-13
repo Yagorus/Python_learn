@@ -121,11 +121,11 @@ bts2 = b"Hello World"
 
 # Dictionars
 
-dict = {
-    "HDD": "4G",
-    "CPU": "INTEL",
-    "RAM":  "8G"
-}
+# dict = {
+#     "HDD": "4G",
+#     "CPU": "INTEL",
+#     "RAM":  "8G"
+# }
 
 # print(dict)
 # {'HDD': '4G', 'CPU': 'INTEL', 'RAM': '8G'}
