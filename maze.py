@@ -32,5 +32,5 @@ def AI(x,y):
     action(x,y+1)
     action(x,y-1)
 
-AI(2,1)
+AI(1,1)
 
